@@ -1,4 +1,4 @@
-# CMPE-258-Assignment-2 
+# CMPE-258-Assignment-2-Complete-End2End-Modeling-with-Deep-Learning
 ## Overview 
 This project includes three deep learning models implemented in Google Colab, each addressing different types of machine learning tasks: 
 
